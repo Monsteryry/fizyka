@@ -134,4 +134,5 @@ int main()
     cout<<"Zapis danych zako"<<_n<<"czony.";
     cin>>znak_koniec;
     return 0;
+    //fsdafsa
 }
