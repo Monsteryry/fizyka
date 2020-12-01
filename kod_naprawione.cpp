@@ -2,7 +2,7 @@
 #include <fstream>
 #include <cmath>
 using namespace std;
-//dsadsadsa
+
 const unsigned char _a=165;
 const unsigned char _c=134;
 const unsigned char _e=169;
