@@ -3,7 +3,6 @@
 #include <cmath>
 using namespace std;
 
-/* Ponizej dodaje polskie znaki, _x to ziet */
 const unsigned char _a=165;
 const unsigned char _c=134;
 const unsigned char _e=169;
